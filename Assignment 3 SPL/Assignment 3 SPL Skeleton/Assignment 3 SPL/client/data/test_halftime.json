@@ -1,0 +1,36 @@
+{
+    "team a": "TestA",
+    "team b": "TestB",
+    "events": [
+        {
+            "event name": "Pre-Half Event",
+            "time": 2800,
+            "general game updates": {
+                "before halftime": "true"
+            },
+            "team a updates": {},
+            "team b updates": {},
+            "description": "Late first half event (46:40)"
+        },
+        {
+            "event name": "Post-Half Event",
+            "time": 2700,
+            "general game updates": {
+                "before halftime": "false"
+            },
+            "team a updates": {},
+            "team b updates": {},
+            "description": "Early second half event (45:00)"
+        },
+        {
+            "event name": "Standard Event",
+            "time": 100,
+            "general game updates": {
+                "before halftime": "true"
+            },
+            "team a updates": {},
+            "team b updates": {},
+            "description": "Early first half event"
+        }
+    ]
+}

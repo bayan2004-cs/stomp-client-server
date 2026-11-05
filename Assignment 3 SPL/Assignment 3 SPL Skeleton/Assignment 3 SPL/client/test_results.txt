@@ -1,0 +1,22 @@
+TestA vs TestB
+Game Stats:
+General stats:
+before halftime: true
+TestA stats:
+TestB stats:
+Game Event Reports:
+100 - Standard Event:
+
+Early first half event
+
+
+2800 - Pre-Half Event:
+
+Late first half event (46:40)
+
+
+2700 - Post-Half Event:
+
+Early second half event (45:00)
+
+
